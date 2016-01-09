@@ -47,6 +47,10 @@
   <ItemGroup>
      <Compile Include="Assets\FlappyBaseAssets\CameraEffect\ClashCamera.cs" />
      <Compile Include="Assets\FlappyBaseAssets\CameraEffect\FlashEffect.cs" />
+     <Compile Include="Assets\Scripts\AzarashiController.cs" />
+     <Compile Include="Assets\Scripts\Block.cs" />
+     <Compile Include="Assets\Scripts\ClearTrigger.cs" />
+     <Compile Include="Assets\Scripts\GameController.cs" />
      <Compile Include="Assets\Scripts\ScrollObject.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
